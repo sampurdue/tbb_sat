@@ -1,0 +1,76 @@
+/home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/core/Collect.o /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/core/Collect.or /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/core/Collect.od /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/core/Collect.op: \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/core/Collect.cc \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/core/Collect.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/core/Solver.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/mtl/Vec.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/mtl/IntTypes.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/mtl/XAlloc.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/mtl/Heap.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/mtl/Alg.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/utils/Options.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/utils/ParseUtils.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/core/SolverTypes.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/mtl/Map.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/mtl/Alloc.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/mutex.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/aligned_space.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/tbb_stddef.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/tbb_config.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/tbb_machine.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/machine/linux_intel64.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/machine/gcc_ia32_common.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/machine/linux_common.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/tbb_profiling.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/atomic.h
+/home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/core/Main.o /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/core/Main.or /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/core/Main.od /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/core/Main.op: /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/core/Main.cc \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/utils/System.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/mtl/IntTypes.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/utils/ParseUtils.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/utils/Options.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/mtl/Vec.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/mtl/XAlloc.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/core/Dimacs.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/core/SolverTypes.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/mtl/Alg.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/mtl/Map.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/mtl/Alloc.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/mutex.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/aligned_space.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/tbb_stddef.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/tbb_config.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/tbb_machine.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/machine/linux_intel64.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/machine/gcc_ia32_common.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/machine/linux_common.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/tbb_profiling.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/atomic.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/core/Collect.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/core/Solver.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/mtl/Heap.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/tbb_thread.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/tick_count.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/task_scheduler_init.h
+/home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/core/Solver.o /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/core/Solver.or /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/core/Solver.od /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/core/Solver.op: \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/core/Solver.cc \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/mtl/Sort.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/mtl/Vec.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/mtl/IntTypes.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/mtl/XAlloc.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/core/Solver.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/mtl/Heap.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/mtl/Alg.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/utils/Options.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/utils/ParseUtils.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/core/SolverTypes.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/mtl/Map.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/tbb_sat/mtl/Alloc.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/mutex.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/aligned_space.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/tbb_stddef.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/tbb_config.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/tbb_machine.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/machine/linux_intel64.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/machine/gcc_ia32_common.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/machine/linux_common.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/tbb_profiling.h \
+ /home/min/a/mishra22/ECE595Z_CourseProject/TBB/tbb41_20130314oss/include/tbb/atomic.h
